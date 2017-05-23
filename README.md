@@ -35,4 +35,3 @@ Completa con riapertura porte tramite inverter SMS MIAE.
 
 ### Emendamento A3
 Nessuno.
->>>>>>> nuovo
