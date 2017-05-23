@@ -6,25 +6,32 @@
 MCPX2015-SMD - PER16B-SMD
 
 ### Tipo impianto
-Fune
+Fune.
 
 ### Manovra
-Tipo di manovra
+Prenotazione.
 
 ### Operatore porte
-Tipo di operatore porte
+Manuale, automatico trifase, automatico elettronico.
 
 ### Avviamento / controllo motore
-Tipo di avviamento (VVVF, soft starter con specifiche modelli e marche).
+Con VVVF Yaskawa L1000A (da 5,5KW a 7,5KW).
 
 ### Potenza massima motore / taglie compatibili
-Inserire kw motore e specifiche varie legate alla potenza e/o l'elenco di taglie dei quadri compatibili con questo schema.
+Taglia|Potenza
+---|---
+S10|6CV-400VAC
+S15|9CV-400VAC
+S20|13CV-400VAC
+S30|19CV-400VAC
+S35|24CV-400VAC
+S40|29CV-400VAC
 
 ### Allarme
-Tipo di allarme
+12VDC, legge 13.
 
 ### Emergenza
-Tipo di emergenza
+Completa con riapertura porte tramite inverter SMS MIAE.
 
 ### Emendamento A3
-Tipo di emendamento a3
+Nessuno.

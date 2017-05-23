@@ -1,13 +1,1 @@
-# [Nome versione](tag link) - Data rilascio
-[Compara con precendete](link)
-# Aggiunte
-* add1
-* add2
-
-## Modifiche
-* change1
-* change2
-
-## Errori sistemati
-* fix1
-* fix2
+# [0.0.0](https://gitlab.com/eca-automs/schematics/MC-PFAL10AEM/tags/v0.0.0)
